@@ -1,0 +1,14 @@
+{
+  "port" : 8084,
+  "loglevel" : "debug",
+  "default_duration" : "30",
+  "Podcasts" : [
+    {
+      "podcast_id" : "INSERT",
+      "name": "INSERT",
+      "url": "INSERT",
+      "filter_type": "INSERT",
+      "filter_value": "INSERT"
+    }
+  ]
+}

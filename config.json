@@ -1,0 +1,28 @@
+{
+  "port" : 8084,
+  "loglevel": "debug",
+  "default_duration" : "30",
+  "Podcasts" : [
+    {
+      "podcast_id" : "gbvs",
+      "name": "Grand bien vous fasse !",
+      "url": "http://radiofrance-podcast.net/podcast09/rss_16173.xml",
+      "filter_type": "duration_min",
+      "filter_value": "40"
+    },
+    {
+      "podcast_id" : "ltac",
+      "name": "La t&#xEA;te au carr&#xE9;",
+      "url": "http://radiofrance-podcast.net/podcast09/rss_10212.xml",
+      "filter_type": "duration_min",
+      "filter_value": ""
+    },
+    {
+      "podcast_id" : "lhi",
+      "name": "L'humour d'Inter",
+      "url": "http://radiofrance-podcast.net/podcast09/rss_15275.xml",
+      "filter_type": "duration_max",
+      "filter_value": ""
+    }
+  ]
+}
